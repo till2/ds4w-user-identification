@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,Pixel 6,1713800420922,2024-04-22_15-40-20,Europe/Berlin,android,1.31.4,33de95da-c360-488a-8c16-33210f9e805a,Accelerometer|Gyroscope|Pedometer|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10||10|10|10,false
