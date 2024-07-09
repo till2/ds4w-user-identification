@@ -1,2 +1,2 @@
 # ds4w-user-identification
-User Identification from Accelerometer and Gyroscop Phone Sensors.
+User Identification from Accelerometer and Gyroscope Phone Sensors.
